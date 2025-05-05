@@ -36,4 +36,4 @@ This project is a smart distance measuring system that uses an ultrasonic sensor
 You can upload the Arduino sketch from the `/code` folder (if available) or write your own using the `LiquidCrystal_I2C` and `NewPing` libraries.
 
 ## License
-MIT License
+VoltACDC.Lab License
